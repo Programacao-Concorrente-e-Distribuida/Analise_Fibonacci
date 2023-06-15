@@ -21,8 +21,8 @@ Este projeto está licenciado sob a [GNU General Public License v3.0](https://ww
 
 ## Contato (E-mail)
 
-- [Luiz Gustavo da Costa Gonçalves](luizg.dev@gmail.com)
-- [Gustavo David Pinto](gustavodavidpinto@gmail.com)
-- [Luiz Gustavo Gomes Capistrano](gustavo.capistrano64@gmail.com)
-- [Hevert Soares Sousa](hevert.sousa@outlook.com)
-- [Vinícius Coitino Santos](vinicius.coitino@eb.mil.br)
+- [Luiz Gustavo da Costa Gonçalves](mailto:luizg.dev@gmail.com)
+- [Gustavo David Pinto](mailto:gustavodavidpinto@gmail.com)
+- [Luiz Gustavo Gomes Capistrano](mailto:gustavo.capistrano64@gmail.com)
+- [Hevert Soares Sousa](mailto:hevert.sousa@outlook.com)
+- [Vinícius Coitino Santos](mailto:vinicius.coitino@eb.mil.br)
