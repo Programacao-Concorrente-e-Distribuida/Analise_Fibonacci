@@ -2,15 +2,14 @@ import time
 
 
 def fibonacci_recursivo(n):
-    """A abordagem recursiva para calcular a sequência de Fibonacci envolve a definição de um método que chama a si
-    mesmo para obter os números desejados. Nesse caso, o método fibonacci_recursivo recebe um número n como entrada
-    e retorna todos os números, até o n-ésimo número da sequência.
+    """
+    Função recursiva para calcular o n-ésimo termo da sequência de Fibonacci.
 
     Args:
-        n (int): Quantidade iterações do método.
+        n (int): Número do termo desejado na sequência.
 
     Returns:
-        list: Lista de números inteiros somados cumulativamente, de acordo com o método de Fibonacci.
+        int: O n-ésimo termo da sequência de Fibonacci.
     """
     if n <= 1:
         return n
@@ -19,6 +18,7 @@ def fibonacci_recursivo(n):
 
 
 def main():
+    # Define o número de termos da sequência de Fibonacci que desejamos calcular
     n = 40
 
     # Uso fibonacci recursivo:
@@ -30,4 +30,5 @@ def main():
 
 
 if __name__ == '__main__':
+    # Chama a função principal do programa
     main()
