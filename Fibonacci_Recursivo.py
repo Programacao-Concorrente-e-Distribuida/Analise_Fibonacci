@@ -21,11 +21,19 @@ def main():
     # Define o número de termos da sequência de Fibonacci que desejamos calcular
     n = 40
 
-    # Uso fibonacci recursivo:
+    # Armazena o tempo atual antes de calcular a sequência
     inicio = time.time()
+
+    # Calcula a sequência de Fibonacci
     sequencia = [fibonacci_recursivo(i) for i in range(1, n + 1)]
+
+    # Calcula o tempo de execução do método recursivo paralelo
     final = time.time() - inicio
+
+    # Imprime a sequência de Fibonacci calculada
     print(sequencia)
+
+    # Imprime o tempo de execução do método recursivo
     print(f'O método recursivo terminou em {final:.10f} segundos.\n')
 
 
